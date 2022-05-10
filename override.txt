@@ -1,1 +1,3 @@
 nc_woodwork:plank * nc_woodwork_plank_raw.png
+nc_terrain:cobble * nc_terrain_cobble_base.png
+nc_fire:coal8 * nc_fire_coal_4.png
